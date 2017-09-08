@@ -8682,5 +8682,8 @@
     <!-- The divider symbol between different parts of the notification header including spaces. not translatable [CHAR LIMIT=3] -->
     <string name="notification_header_divider_symbol_with_spaces" translatable="false">" • "</string>
 
+    <!-- Darkness Arena --> 
+    <string name="arena_title">Darkness-Arena</string> 
+    <string name="header_category_custom">Customization</string> 
 
 </resources>
